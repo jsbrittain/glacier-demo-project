@@ -1,0 +1,13 @@
+{
+    "Name": "GLACIER Demo project",
+    "Description": "This is a demo project for GLACIER system.",
+    "Version": "1.0",
+    "Workflows": [
+        {
+            "url": "jsbrittain/workflow-runner-test-nextflow"
+        },
+        {
+            "url": "jsbrittain/workflow-runner-testworkflow"
+        }
+    ]
+}
